@@ -1,5 +1,10 @@
+import { AppSC } from "./components/AppStyles"
+import { CoverPhoto } from "./components/CoverPhoto"
+
 export const App = () => {
   return (
-    <div>GitHub Profile</div>
+    <AppSC>
+      <CoverPhoto/>
+    </AppSC>
   )
 }
