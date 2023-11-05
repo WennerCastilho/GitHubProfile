@@ -1,5 +1,5 @@
 import { ContainerSC, ImageSC } from "./coverPhotoStyles"
-import image from '../../assets/hero-image-github-profile.png'
+import image from '../../../assets/hero-image-github-profile.png'
 
 export const CoverPhoto = () => {
     return (
